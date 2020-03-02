@@ -2,6 +2,8 @@
 Small script to automate all necessary containers to deploy WordPress with TLS enabled.
 It uses Nginx as a reverse proxy to allow additional services to be deployed along side WordPress. TLS certificate is provided by Let's Encrypt.
 
+## OS
+Linux Ubuntu 18.04 LTS
 
 ## Installation
 
