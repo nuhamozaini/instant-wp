@@ -19,7 +19,7 @@ services:
     environment:
       WORDPRESS_DB_HOST: db
       WORDPRESS_DB_USER: wordpress
-      WORDPRESS_DB_PASSWORD: 123123
+      WORDPRESS_DB_PASSWORD: password
       WORDPRESS_DB_NAME: wordpress
     depends_on:
       - db
