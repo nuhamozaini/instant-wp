@@ -1,4 +1,7 @@
 # Wordpress Dockerized
+Small script to automate all necessary containers to deploy WordPress with SSL enabled.
+It uses nginx as a reverse proxy to allow additional services to be deployed along side WordPress. TLS certificate is provided by Let's Encrypt
+
 
 ## Installation
 
